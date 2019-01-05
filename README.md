@@ -1,1 +1,2 @@
-# code_practice_cpp
+# Code Practice CPP
+Codes for practicing basic data structures and algorithms in C++.
